@@ -1,0 +1,3 @@
+url: ina-terraform-dev-mysql-standalone.cwzph1y5ywlj.us-east-2.rds.amazonaws.com
+user: admin
+pass: ucqRUAhfxneQBmtZ
